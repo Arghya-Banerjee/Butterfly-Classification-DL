@@ -1,4 +1,2 @@
 tensorflow
-Flask
-gunicorn
 numpy
